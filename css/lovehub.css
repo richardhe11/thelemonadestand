@@ -410,10 +410,33 @@ a:hover .fa-circle {
 
 .guidelines {
     padding: 7%;
+    background-color: rgba(0,0,0,0.7);
 }
 
 .return-links {
     text-align:center;
+    color: #fff;
+}
+
+.return-links a {
+    color: #e2e224;
+}
+
+.return-links a:hover {
+    color: #9e9e19;
+}
+
+.guidelines h2, h3, h4{
+    color: #e2e224;
+}
+
+.guidelines h5 {
+    color: #000;
+    font-weight: 1;
+}
+
+.guidelines p {
+    color: #fff;
 }
 
 /*Current*/
