@@ -418,11 +418,8 @@ a:hover .fa-circle {
 
 /*Current*/
 
-#current,
- {
-    color: #333;
-}
-#current {
+
+#current{
     width: 100%;
     height: 100%;
     background: #000;
