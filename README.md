@@ -1,3 +1,3 @@
-Created by Richard He, 2016, based on a ForBetterWeb.com bootstrap template created by Jeny Elkind. 
+Created 2016, based on a ForBetterWeb.com bootstrap template created by Jeny Elkind. Code released under the [Apache 2.0] license.
 
-Code released under the [Apache 2.0] license.
+Planning to scrap the entire website, and replace with a minimalistic aesthetic. In the meantime, yay messy repositories...
